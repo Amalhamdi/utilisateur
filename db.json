@@ -5,13 +5,12 @@
 "email" : "amal@gmail.tn",
 "password" : "amal",
 "role" : "ADMIN"
-}
 },
+{
 "id" : 2,
 "name" : "Lotfi",
 "email" : "lotfi@gmail.tn",
 "password" : "lotfi",
 "role" : "AGENT"
-}
 }
 ]
