@@ -1,14 +1,9 @@
+{ "util" :
 [
   {
-    "id": 1,
-    "name": "amal"
-  },
+    "id": 1, "name": "amal" , "email" : "amal@gmail.tn" , "role" : "ADMIN" },
   {
-    "id": 2,
-    "name": "lotfi"
-  },
-  {
-    "id": 3,
-    "name": "Ameny"
+    "id": 2 , "name": "lotfi" , "email" : "lotfi@gmail.tn" , "role" : "AGENT"}
   }
 ]
+}
